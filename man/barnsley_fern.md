@@ -1,8 +1,3 @@
-Here is a **clean, self-contained Markdown document** describing the geometric Barnsley fern Python function.
-You can paste this directly into a `.md` file, GitHub README, or documentation site.
-
----
-
 # Geometric Fern (Barnsley IFS) in Python
 
 This document describes a reusable Python function that generates and optionally plots a **geometric Barnsley fern** using an **Iterated Function System (IFS)**.
