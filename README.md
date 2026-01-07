@@ -1,2 +1,2 @@
-# geompy
+# naturamorph
 natural geometry via python
