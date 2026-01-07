@@ -185,4 +185,3 @@ barnsley_fern(
 * create **multiple fern species**
 * add **animation or interactivity**
 
-Just tell me.
