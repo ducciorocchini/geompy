@@ -1,8 +1,3 @@
-Here is a **clean Markdown document** describing the *organic ink ring* generator you just built.
-You can paste this directly into a `README.md`, documentation site, or your future package docs.
-
----
-
 # Organic Ink Ring Generator (Python)
 
 This module generates **procedural ink rings** inspired by calligraphic and organic mark-making, similar in spirit to circular logograms and ink-based glyphs.
